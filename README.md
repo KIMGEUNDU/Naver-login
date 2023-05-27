@@ -5,7 +5,7 @@
 ## 혼자 만들기  
   
 <p align="center">
-  <img src="[https://github.com/KIMGEUNDU/naver-login/assets/126174401/4e44d6d6-a7dc-48cd-b45e-09b3d8def314](https://github.com/KIMGEUNDU/naver-login/assets/126174401/6029dd42-13d3-46d6-8c74-4f77facd87d7)">
+  <img src="https://github.com/KIMGEUNDU/naver-login/assets/126174401/6029dd42-13d3-46d6-8c74-4f77facd87d7">
 </p>
 
 
@@ -16,7 +16,7 @@
 ## 배운 태그로 수정한 수정본  
 
 <p align="center">
-  <img src="[https://github.com/KIMGEUNDU/naver-login/assets/126174401/b49a1a10-35d8-4905-a472-4b22f9c60bf2](https://github.com/KIMGEUNDU/naver-login/assets/126174401/411dab67-0ef5-43e8-a781-235dccd0a404)">
+  <img src="https://github.com/KIMGEUNDU/naver-login/assets/126174401/411dab67-0ef5-43e8-a781-235dccd0a404">
 </p>  
 
 수업에서 배운 내용으로 논리적인 구조로 코드를 수정하였습니다.
