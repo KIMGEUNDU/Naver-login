@@ -1,0 +1,103 @@
+/* 웹폰트 - Spoqa Han Sans */
+@import url(./fonts.css);
+
+/* 숨김 콘텐츠 */
+.a11y {
+  position: absolute;
+  width: 1px;
+  height: 1px;
+  margin: -1px;
+  overflow: hidden;
+  visibility: hidden;
+  clip: rect(0, 0, 0, 0);
+  clip-path: inset(50%);
+}
+
+/* 기본 글자크기 설정 */
+html {
+  font-size: 10px;
+}
+
+/* 본문 기본 스타일 */
+body {
+  font-family: "Spoqa Han Sans";
+  font-weight: 400;
+  background-color: #fff;
+  color: #181818;
+  margin: 0;
+  font-size: 1.6rem;
+}
+
+/* 로그인 페이지 전체 */
+.container {
+  width: 460px;
+  margin: 100px auto;
+}
+
+/* 로고 */
+.container .logo {
+  width: 250px;
+  margin: 0 auto;
+}
+
+.container .logo img {
+  width: 100%;
+}
+
+/* 아이디 비밀번호 */
+.container .idpwd {
+  width: 380px;
+  margin: 0 auto;
+}
+
+.container .user-login {
+  width: 360px;
+  padding: 15px 10px;
+  margin-bottom: 10px;
+  border: 1px solid #ddd;
+}
+
+/* 로그인 */
+.container .loginBtn {
+  width: 380px;
+  margin: 0 auto;
+}
+
+.container .Btn {
+  width: 380px;
+  border: 1px solid #20da6a;
+  background-color: #20da6a;
+  color: #fff;
+  font-weight: bolder;
+  padding: 13px 0;
+  font-size: 1.0em;
+}
+
+/* 로그인 상태 유지 */
+.container .loginCheck {
+  float: left;
+}
+
+.container .loginCheck label {
+  color: #b0aeae;
+  font-size: 0.8em;
+}
+
+#loginCheck {
+  float: left;
+  background-color: #fff;
+  border: 1px solid #fff;
+  margin-top: 10px;
+  width: 20px;
+}
+
+/* IP 보안 */
+.container .ipCheck {
+  float: right;
+  text-align: right;
+}
+
+.container .ipCheck label {
+  font-size: 0.9em;
+  color: #b0aeae;
+}
